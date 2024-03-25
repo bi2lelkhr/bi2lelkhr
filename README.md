@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bi2lelkhr
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning ui/ux
+- 👀 I’m interested in mobile dev
+- 🌱 I’m currently learning flutter , dart and swift
 
 
 
