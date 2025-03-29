@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bi2lelkhr
-- 👀 I’m interested in mobile dev
-- 🌱 I’m currently learning flutter , dart and swift
+- 👋 Hi, I’m billel khiri
+- 👀 I’m interested in deep learning 
+- 🌱 I’m currently learning mobile dev
 
 
 
