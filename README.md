@@ -1,6 +1,6 @@
 - 👋 Hi, I’m billel khiri
-- 👀 I’m interested in deep learning 
-- 🌱 I’m currently learning mobile dev
+- 👀 I’m a full stack developer 
+- 🌱 I’m currently learning nlp and computer vision
 
 
 
